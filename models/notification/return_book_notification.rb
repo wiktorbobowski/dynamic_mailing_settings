@@ -1,0 +1,3 @@
+class ReturnBookNotification < MailingNotification
+
+end

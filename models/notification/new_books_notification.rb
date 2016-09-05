@@ -1,0 +1,3 @@
+class NewBooksNotification  < MailingNotification
+
+end

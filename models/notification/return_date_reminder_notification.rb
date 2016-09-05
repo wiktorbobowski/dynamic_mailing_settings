@@ -1,0 +1,3 @@
+class ReturnDateReminderNotification < MailingNotification
+
+end

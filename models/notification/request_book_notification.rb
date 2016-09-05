@@ -1,0 +1,3 @@
+class RequestBookNotification < MailingNotification
+
+end
